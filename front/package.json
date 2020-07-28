@@ -1,14 +1,14 @@
 {
   "name": "front",
   "version": "1.0.0",
-  "description": "e-comm Front End",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
-  "author": "Thao Le",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "next": "^9.5.0",
